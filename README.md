@@ -1,5 +1,7 @@
 # Kazuhiro Higashi – Estudio de Composición Interactiva
 
+https://krea27.github.io/higashi-generativo/
+
 Obra generativa e interactiva controlada por voz y sonido, inspirada en el lenguaje visual del artista japonés **Kazuhiro Higashi**. Desarrollada en el marco de la cátedra **Informática Aplicada 2** (Aranda - Longo).
 
 ---
